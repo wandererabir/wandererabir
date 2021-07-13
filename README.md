@@ -11,6 +11,7 @@ I like building ML models, data analysis, preicting things and also do frontend 
 
 ## Get In Touch
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+..
 
 ## Status( Right Now )
 I am currently a 2nd year CS student
