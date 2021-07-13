@@ -3,7 +3,7 @@
 ## I am a guy who likes to code. I am also a Data Science aspiring personnel / Frontend Developer.
 I like building ML models, data analysis, preicting things and also do frontend works.
 
-#### Technical Knowledge
+## Technical Knowledge
 1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow)
 2. HTML, CSS(bootstap), Javascript(JQuery)
 3. C++/C, Java, PHP
