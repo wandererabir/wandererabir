@@ -19,5 +19,6 @@ I am always available for any collaboration with startup projects.
 Ping me anytime about : Data Science & Frontend Development
 Connect with me : abirtechno1122@gmail.com
 
-[linkedin] : https://www.linkedin.com/in/abir-paul-682191197/
+[linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
+
 
