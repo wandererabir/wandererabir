@@ -1,19 +1,19 @@
-### Hi, I am Abir 
+### Hi, I am Abir :sunglasses:
 
-## I am a guy who likes to code. I am also a Data Science aspiring personnel / Frontend Developer.
+## I am a guy who likes to code. I am also a Data Science aspiring personnel / Frontend Developer :rocket:
 I like building ML models, data analysis, preicting things and also do frontend works.
 
-## Technical Knowledge
+## Technical Knowledge :zap:
 1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow)
 2. HTML, CSS(bootstap), Javascript(JQuery)
 3. C++/C, Java, PHP
 4. MySQL
 
-## Get In Touch
+## Get In Touch :mailbox_with_mail:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 ..
 
-## Status( Right Now )
+## Status( Right Now ) :godmode:
 1. I am currently a 2nd year CS student.
 2. I am currently in a team where we build games(Desktop, Android & IOS) and websites.
 3. I am always available for any collaboration with startup projects.
