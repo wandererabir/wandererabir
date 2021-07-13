@@ -14,11 +14,11 @@ I like building ML models, data analysis, preicting things and also do frontend 
 ..
 
 ## Status( Right Now )
-I am currently a 2nd year CS student.
-I am currently in a team where we build games(Desktop, Android & IOS) and websites.
-I am always available for any collaboration with startup projects.
-Ping me anytime about : Data Science & Frontend Development.
-Connect with me : abirtechno1122@gmail.com
+1. I am currently a 2nd year CS student.
+2. I am currently in a team where we build games(Desktop, Android & IOS) and websites.
+3. I am always available for any collaboration with startup projects.
+4. Ping me anytime about : Data Science & Frontend Development.
+5. Connect with me : abirtechno1122@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
 
