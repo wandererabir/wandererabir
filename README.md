@@ -1,7 +1,7 @@
 # Hi, I am Abir :sunglasses:
 
 ## I am a guy who likes to code. I am also a Data Science aspiring personnel & Frontend Developer :rocket:
-I like building ML models, data analysis, preicting things and also do frontend works.
+I like building ML models, data analysis, predicting things and also do frontend works.
 
 ## Technical Knowledge :zap:
 1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow)
