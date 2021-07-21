@@ -5,7 +5,7 @@ I like building ML models, data analysis, preicting things and also do frontend 
 
 ## Technical Knowledge :zap:
 1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow)
-2. HTML, CSS(bootstap), Javascript(JQuery)
+2. HTML, CSS(bootstap), Javascript(JQuery, React.js)
 3. C++/C, Java, PHP
 4. MySQL
 
