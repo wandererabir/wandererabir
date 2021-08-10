@@ -14,7 +14,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 and my [WEBSITE]
 
 ## Status( Right Now ) :godmode:
-1. I am currently a 2nd year CS student.
+1. I am currently a 3rd year CS student.
 2. I am currently in a [team] where we build games(Desktop, Android & IOS) and websites.
 3. I am always available for any collaboration with startup projects.
 4. Ping me anytime about : Data Science & Frontend Development.
