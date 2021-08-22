@@ -1,6 +1,6 @@
 # Hi, I am Abir :sunglasses:
 
-## I am a guy who likes to code. I am also a Data Science aspiring personnel & Frontend Developer :rocket:
+## I am a guy who likes to code. I am also a Data Science aspiring personnel & Web Developer :rocket:
 I like building ML models, data analysis, predicting things and also do frontend works.
 
 ## Technical Knowledge :zap:
