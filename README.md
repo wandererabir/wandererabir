@@ -9,7 +9,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 3. C++/C, Java, PHP
 4. MySQL
 
-# Portfolio [WEBSITE]
+## Portfolio [WEBSITE]
 
 ## Get In Touch :mailbox_with_mail:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
