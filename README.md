@@ -10,8 +10,9 @@ I like building ML models, data analysis, predicting things and also do frontend
 4. MySQL
 
 ## Get In Touch :mailbox_with_mail:
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-and my [WEBSITE]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] \
+
+#Portfolio [WEBSITE]
 
 ## Status( Right Now ) :godmode:
 1. I am currently a 3rd year CS student.
