@@ -26,7 +26,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 [Facebook]: https://www.facebook.com/abir.paul.79230/
 [Twitter]: https://twitter.com/AbirWanderer
 [linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
-[Portfolio WEBSITE]: https://wandererabir.github.io/MyWebsite/
+[Portfolio WEBSITE]: https://www.abirpaul.live
 [team]: https://www.linkedin.com/company/kodo-shinobi/
 
 
