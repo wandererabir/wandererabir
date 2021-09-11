@@ -4,12 +4,8 @@
 I like building ML models, data analysis, predicting things and also do frontend works.
 
 ## Technical Knowledge :zap:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/pandas.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/numpy.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/seaborn.png"></code>
-1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow)
-2. HTML, CSS, Javascript(JQuery, React.js)
+1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow, NLTK, BeautifulSoup, Textblob, etc.)
+2. HTML, CSS, Javascript(JQuery, React.js, Bootstrap, Tailwind)
 3. C++/C, Java, PHP
 4. MySQL
 
