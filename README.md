@@ -1,4 +1,4 @@
-# Hi, I am Abir :sunglasses:
+# Hi, I am Abir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I am a guy who likes to code. I am also a Data Science aspiring personnel & Web Developer :rocket:
 I like building ML models, data analysis, predicting things and also do frontend works.
