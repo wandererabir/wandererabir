@@ -11,8 +11,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 
 ## [Portfolio WEBSITE]
 ## DO READ MY BLOG AT :
-## [BLOG]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
+### [BLOG] [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 
 
 
