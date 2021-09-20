@@ -12,8 +12,8 @@ I like building ML models, data analysis, predicting things and also do frontend
 ## [Portfolio WEBSITE]
 ## DO READ MY BLOG AT :
 ## [BLOG]
-[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white][medium]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linedinblog]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
+
 
 
 ## Get In Touch :mailbox_with_mail:
@@ -33,5 +33,5 @@ I like building ML models, data analysis, predicting things and also do frontend
 [linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
 [Portfolio WEBSITE]: https://www.abirpaul.live
 [team]: https://www.linkedin.com/company/kodo-shinobi/
-
-
+[BLOG]:https://www.abirpaul.live/blog.html
+[medium]:https://abirpaul.medium.com/
