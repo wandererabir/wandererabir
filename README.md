@@ -10,6 +10,11 @@ I like building ML models, data analysis, predicting things and also do frontend
 4. MySQL
 
 ## [Portfolio WEBSITE]
+## DO READ MY BLOG AT :
+## [BLOG]
+[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white][medium]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linedinblog]
+
 
 ## Get In Touch :mailbox_with_mail:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
