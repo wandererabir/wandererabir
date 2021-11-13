@@ -33,6 +33,13 @@ I like building ML models, data analysis, predicting things and also do frontend
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandererabir&layout=compact&theme=cobalt&hide_border=true" />
 
+
+---
+<p align="center"> © 2021 Abir Paul, all rights reserved. Made with ❤️ for you. </p>
+<p align="center">
+https://www.abirpaul.live
+</p>
+
 [Facebook]: https://www.facebook.com/abir.paul.79230/
 [Twitter]: https://twitter.com/AbirWanderer
 [linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
