@@ -1,11 +1,13 @@
-# Hi, I am Abir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+# I am friendly neighbourhood Abir. :relaxed:
 
 ## I am a guy who likes to code. I am also a Data Science aspiring personnel & Web Developer :rocket:
 I like building ML models, data analysis, predicting things and also do frontend works.
 
 ## Technical Knowledge :zap:
 1. Python(Pandas, Numpy, Seaborn, Scikitlearn, Matplotlib, TensorFlow, NLTK, BeautifulSoup, Textblob, etc.)
-2. HTML, CSS, Javascript(JQuery, React.js, Bootstrap, Tailwind)
+2. HTML, CSS, Javascript(JQuery, Bulma, Bootstrap, Tailwind), React(React.js)
 3. C++/C, Java, PHP
 4. MySQL
 
@@ -22,7 +24,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 
 ## Status( Right Now ) :godmode:
 1. I am currently a 3rd year CS student.
-2. I am currently in a [team] where we build games(Desktop, Android & IOS) and websites.
+2. I am currently in a [team] where we build games(for Desktop, Android & IOS) and websites.
 3. I am always available for any collaboration with startup projects.
 4. Ping me anytime about : Data Science & Frontend Development.
 5. Connect with me : abirtechno1122@gmail.com
