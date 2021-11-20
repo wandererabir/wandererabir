@@ -26,7 +26,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 1. I am currently a 3rd year CS student.
 2. I am currently in a [team] where we build games(for Desktop, Android & IOS) and websites.
 3. I am always available for any collaboration with startup projects.
-4. Ping me anytime about : Data Science & Frontend Development.
+4. Ping me anytime to talk about : Data Science, Machine Learning & Frontend Development.
 5. Connect with me : abirtechno1122@gmail.com
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wandererabir&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
