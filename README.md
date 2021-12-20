@@ -10,6 +10,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 2. HTML, CSS, Javascript(JQuery, Bulma, Bootstrap, Tailwind), React(React.js)
 3. C++/C, Java, PHP
 4. MySQL
+5. Data Structures & Algorithms
 
 ## [Portfolio WEBSITE]
 ## DO READ MY BLOG AT :
