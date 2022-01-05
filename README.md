@@ -22,7 +22,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
-## [Portfolio WEBSITE] <br>
+### [Portfolio WEBSITE] <br>
 
 ## Status( Right Now ) :godmode:
 1. I am currently a 3rd year CS student.
