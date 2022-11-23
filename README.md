@@ -48,7 +48,7 @@ https://www.abirpaul.live
 [Facebook]: https://www.facebook.com/abir.paul.79230/
 [Twitter]: https://twitter.com/AbirWanderer
 [linkedin]: https://www.linkedin.com/in/abir-paul-682191197/ 
-[Portfolio WEBSITE]: https://www.abirpaul.live
+[Portfolio WEBSITE]: http://abirpaul.me/MyWebsite/
 [team]: https://www.linkedin.com/company/kodo-shinobi/
-[BLOG]:https://www.abirpaul.live/blog.html
+[BLOG]:http://abirpaul.me/MyWebsite/blog.html
 [medium]:https://abirpaul.medium.com/
