@@ -25,7 +25,7 @@ I like building ML models, data analysis, predicting things and also do frontend
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][Portfolio WEBSITE](Personal Website)<br>
 
 ## Status( Right Now ) :godmode:
-1. I am currently a 3rd year CS student.
+1. I am currently a 4th year CS grad.
 2. I am currently in a [team] where we build games(for Desktop, Android & IOS) and websites.
 3. I am always available for any collaboration with startup projects.
 4. Ping me anytime to talk about : Data Science, Machine Learning & Frontend Development.
